@@ -1,8 +1,8 @@
 package io.jboxx.designpattern.strategypattern.implementation1;
 
-import io.jboxx.strategypattern.implementation1.engine.IEngine;
-import io.jboxx.strategypattern.implementation1.style.IStyle;
-import io.jboxx.strategypattern.implementation1.wheel.IWheels;
+import io.jboxx.designpattern.strategypattern.implementation1.engine.IEngine;
+import io.jboxx.designpattern.strategypattern.implementation1.style.IStyle;
+import io.jboxx.designpattern.strategypattern.implementation1.wheel.IWheels;
 
 public class Vehicle {
 

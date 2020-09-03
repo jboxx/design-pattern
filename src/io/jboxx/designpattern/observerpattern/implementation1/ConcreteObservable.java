@@ -1,4 +1,4 @@
-package io.jboxx.designpattern.observerpattern;
+package io.jboxx.designpattern.observerpattern.implementation1;
 
 import java.util.HashSet;
 import java.util.Set;

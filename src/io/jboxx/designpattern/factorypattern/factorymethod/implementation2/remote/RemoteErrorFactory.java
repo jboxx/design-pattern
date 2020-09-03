@@ -1,8 +1,8 @@
 package io.jboxx.designpattern.factorypattern.factorymethod.implementation2.remote;
 
-import io.jboxx.factorypattern.factorymethod.implementation2.ErrorInfo;
-import io.jboxx.factorypattern.factorymethod.implementation2.GeneralErrorInfo;
-import io.jboxx.factorypattern.factorymethod.implementation2.IErrorInfoFactory;
+import io.jboxx.designpattern.factorypattern.factorymethod.implementation2.ErrorInfo;
+import io.jboxx.designpattern.factorypattern.factorymethod.implementation2.GeneralErrorInfo;
+import io.jboxx.designpattern.factorypattern.factorymethod.implementation2.IErrorInfoFactory;
 
 public class RemoteErrorFactory implements IErrorInfoFactory {
 

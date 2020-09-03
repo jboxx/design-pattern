@@ -1,6 +1,6 @@
 package io.jboxx.designpattern.factorypattern.factorymethod.implementation2.remote;
 
-import io.jboxx.factorypattern.factorymethod.implementation2.ErrorInfo;
+import io.jboxx.designpattern.factorypattern.factorymethod.implementation2.ErrorInfo;
 
 public class ServerOfflineErrorInfo implements ErrorInfo {
 

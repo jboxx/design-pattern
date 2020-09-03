@@ -1,9 +1,9 @@
 package io.jboxx.designpattern.factorypattern.factorymethod.implementation2;
 
-import io.jboxx.factorypattern.factorymethod.implementation2.local.DataCorruptErrorInfo;
-import io.jboxx.factorypattern.factorymethod.implementation2.local.LocalErrorFactory;
-import io.jboxx.factorypattern.factorymethod.implementation2.remote.NetworkErrorInfo;
-import io.jboxx.factorypattern.factorymethod.implementation2.remote.RemoteErrorFactory;
+import io.jboxx.designpattern.factorypattern.factorymethod.implementation2.local.DataCorruptErrorInfo;
+import io.jboxx.designpattern.factorypattern.factorymethod.implementation2.local.LocalErrorFactory;
+import io.jboxx.designpattern.factorypattern.factorymethod.implementation2.remote.NetworkErrorInfo;
+import io.jboxx.designpattern.factorypattern.factorymethod.implementation2.remote.RemoteErrorFactory;
 
 public class Implementation2FactoryMethod {
 

@@ -1,12 +1,12 @@
 package io.jboxx.designpattern.strategypattern.implementation1;
 
-import io.jboxx.strategypattern.implementation1.engine.IEngine;
-import io.jboxx.strategypattern.implementation1.engine.V4Engine;
-import io.jboxx.strategypattern.implementation1.style.IStyle;
-import io.jboxx.strategypattern.implementation1.style.JDMStyle;
-import io.jboxx.strategypattern.implementation1.style.StanceStyle;
-import io.jboxx.strategypattern.implementation1.wheel.FourWheels;
-import io.jboxx.strategypattern.implementation1.wheel.IWheels;
+import io.jboxx.designpattern.strategypattern.implementation1.engine.IEngine;
+import io.jboxx.designpattern.strategypattern.implementation1.engine.V4Engine;
+import io.jboxx.designpattern.strategypattern.implementation1.style.IStyle;
+import io.jboxx.designpattern.strategypattern.implementation1.style.JDMStyle;
+import io.jboxx.designpattern.strategypattern.implementation1.style.StanceStyle;
+import io.jboxx.designpattern.strategypattern.implementation1.wheel.FourWheels;
+import io.jboxx.designpattern.strategypattern.implementation1.wheel.IWheels;
 
 public class ImplementationStrategyPattern {
 
